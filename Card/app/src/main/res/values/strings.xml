@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="welcome">Welcome to my first card view</string>
+</resources>

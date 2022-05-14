@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiple Pages</string>
+    <string name="second_activity">second activity</string>
+    <string name="first_view">First View</string>
+    <string name="third_view">Third View</string>
+    <string name="second_view">Second View</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="back_to_main">Back</string>
+</resources>

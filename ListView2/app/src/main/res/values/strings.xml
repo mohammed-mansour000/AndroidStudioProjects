@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView 2</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>White</item>
+    </string-array>
+</resources>

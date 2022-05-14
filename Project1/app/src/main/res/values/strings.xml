@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="temp_name">Temperature</string>
+    <string name="length_name">Length</string>
+    <string name="weight_name">Weight</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    //unit from (temperature)
+    <string name="celsius">Celsius(°C)</string>
+    <string name="Fahrenheit">Fahrenheit(°F)</string>
+    <string name="kelvin">Kelvin(°K)</string>
+
+    //unit to (temperature)
+    <string name="celsius2">Celsius(°C)</string>
+    <string name="Fahrenheit2">Fahrenheit(°F)</string>
+    <string name="kelvin2">Kelvin(°K)</string>
+    <string name="btn_convert">convert</string>
+
+    //unit from (length)
+    <string name="meter">Meter</string>
+    <string name="kilo">Kilometer</string>
+    <string name="mile">Mile</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="centimeter">Centimeter</string>
+
+    //unit to (length)
+    <string name="meter2">Meter</string>
+    <string name="kilo2">Kilometer</string>
+    <string name="mile2">Mile</string>
+    <string name="feet2">Feet</string>
+    <string name="inch2">Inch</string>
+    <string name="centimeter2">Centimeter</string>
+
+    //unit from (weight)
+    <string name="gram">Gram</string>
+    <string name="kg">Kilogram</string>
+    <string name="pounds">Pound</string>
+    <string name="ounces">Ounce</string>
+
+    //unit from (weight)
+    <string name="gram2">Gram</string>
+    <string name="kg2">Kilogram</string>
+    <string name="pounds2">Pound</string>
+    <string name="ounces2">Ounce</string>
+
+</resources>

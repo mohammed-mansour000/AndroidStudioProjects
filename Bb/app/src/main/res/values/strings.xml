@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bb</string>
+    <string name="submit">submit</string>
+    <string name="testText">testText</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+</resources>

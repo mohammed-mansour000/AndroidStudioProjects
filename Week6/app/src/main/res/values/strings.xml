@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week6</string>
+    <string-array name="numbers">
+        <item>Zero</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+    </string-array>
+</resources>

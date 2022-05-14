@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Healthline</string>
+    <string-array name="index">
+        <item>Breakfast</item>
+        <item>Carbohydrates</item>
+        <item>Protein</item>
+        <item>Fruits and vegetables</item>
+        <item>Healthy fats</item>
+        <item>Workout snacks</item>
+        <item>Calories</item>
+        <item>Takeaway</item>
+    </string-array>
+</resources>

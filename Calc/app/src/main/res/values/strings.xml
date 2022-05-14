@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="result">Result</string>
+    <string name="multi">Multi</string>
+    <string name="sum">sum</string>
+    <string name="number1">First Number</string>
+    <string name="number2">Second Number</string>
+</resources>

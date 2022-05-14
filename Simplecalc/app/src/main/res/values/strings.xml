@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple calc</string>
+    <string name="myresult">Result!</string>
+    <string name="my_sum">SUM</string>
+    <string name="number1">First Value</string>
+    <string name="number2">Second Value</string>
+    <string name="ppppppp">ppppppp</string>
+</resources>
